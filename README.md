@@ -20,7 +20,7 @@ Máme také **discord server**, kde ti rádi pomůžeme s radou nebo podporou. N
 
 Rádi bychom tě pozvali k nám na **Instagram**, kde sdílíme inspiraci, tipy a novinky ze světa programování a technologie. Sleduj nás a buď v obraze!
 
-[![Instagram](https://cdn.discordapp.com/attachments/1036631373307453470/1138421632680083456/Novy_projekt.png))](https://instagram.com/codify.cz)
+[![Instagram](https://cdn.discordapp.com/attachments/1036631373307453470/1138421632680083456/Novy_projekt.png)](https://instagram.com/codify.cz)
 
 ## Kontaktuj nás
 
